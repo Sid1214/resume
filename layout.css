@@ -1,0 +1,24 @@
+p {
+ border-style: solid;
+  border-color: purple;
+}
+div {
+background-color:crimson;
+color:white;
+padding:07px;
+}
+body {
+background-color :lightblue;
+}
+h3{
+  font-family: "Garamond", Times, serif;
+}
+h2{
+font-family: "Georgia", Times, serif;
+}
+th{
+background-color: lightpink;
+}
+tr{
+background-color: white;
+}
